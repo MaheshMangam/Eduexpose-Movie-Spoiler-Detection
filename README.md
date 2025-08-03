@@ -27,10 +27,10 @@ https://huggingface.co/spaces/MaheshMangam/Movie-Spolier-Detector
 
 ## 📂 Project Structure
 
-├── app.py # Gradio frontend + prediction logic
-├── bert_model.keras # Trained BERT model
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+1. app.py # Gradio frontend + prediction logic
+2. bert_model.keras # Trained BERT model
+3. requirements.txt # Python dependencies
+4. README.md # Project documentation
 
 ## ⚙️ How to Run Locally
 
@@ -48,9 +48,8 @@ https://huggingface.co/spaces/MaheshMangam/Movie-Spolier-Detector
 ## 📊 Dataset
 
 Source: IMDB Spoiler/Non-spoiler review dataset
-
 Note: Dataset not included in repo due to size. You can download from:
-https://huggingface.co/datasets/imdb
+https://www.kaggle.com/datasets/rmisra/imdb-spoiler-dataset
 
 ## 📌 Features
 
