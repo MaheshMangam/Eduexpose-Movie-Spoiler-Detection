@@ -7,7 +7,7 @@ The app is deployed on **Hugging Face Spaces** using **Gradio** for an interacti
 ## 🚀 Live Demo
 
 🔗 Try it on Hugging Face
-https://huggingface.co/spaces/MaheshMangam/Movie-Spoiler-Detector 
+https://huggingface.co/spaces/MaheshMangam/Movie-Spolier-Detector 
 
 ## 🧠 Model Details
 
